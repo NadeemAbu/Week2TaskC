@@ -4,4 +4,4 @@ deploy:
   provider: azure_web_apps
   username: Azured_User
   password: Azured_Pass
-  site: Week2TaskC
+  site: ftp://waws-prod-dm1-013.ftp.azurewebsites.windows.net
