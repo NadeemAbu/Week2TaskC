@@ -2,6 +2,6 @@ language: csharp
 solution: WebApplication1/WebApplication1.sln
 deploy:
   provider: azure_web_apps
-  username: Azure_email
-  password: Azure_Pass
-  site: week2taskc
+  username: Azured_User
+  password: Azured_Pass
+  site: Week2TaskC
