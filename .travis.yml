@@ -1,2 +1,7 @@
 language: csharp
 solution: WebApplication1
+deploy:
+  provider: azure_web_apps
+  username: Azure_email
+  password: Azure_Pass
+  site: https://week2taskc.azurewebsites.net
