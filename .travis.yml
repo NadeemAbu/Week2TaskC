@@ -1,5 +1,5 @@
 language: csharp
-solution: WebApplication1
+solution: WebApplication1/WebApplication1.sln
 deploy:
   provider: azure_web_apps
   username: Azure_email
