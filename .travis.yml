@@ -2,6 +2,4 @@ language: csharp
 solution: WebApplication1/WebApplication1.sln
 deploy:
   provider: azure_web_apps
-  username: Azured_User
-  password: Azured_Pass
-  site: ftp://waws-prod-dm1-013.ftp.azurewebsites.windows.net
+  skip_cleanup: true
